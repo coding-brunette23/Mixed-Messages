@@ -10,3 +10,5 @@ Each time the user runs the program, a random affirmation pops up on the screen.
 * The string and prefix are then combined to get the final affirmation message.
 
 These affirmation messages will bring positivity in your daily life.
+
+#### Run node index.js on the terminal to test the  program
